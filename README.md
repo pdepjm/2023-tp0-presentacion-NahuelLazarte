@@ -16,7 +16,7 @@ Soy **Carlos Nahuel Lazarte** 🙂, me dicen por mi segundo nombre, **Nahuel**. 
     - Morning Mood de Peer Gynt 
     - Pirates of the Caribbean - He's a Pirate (a esta la uso en la alarma los días que tengo un examen y con eso me levanto de la cama impulsado como un cohete espacial).
 
-  Un artista que recomiendo es [Stjepan Hauser](https://www.youtube.com/@HAUSERmusic), sus videos son EPICOOS. Se nota como siente cada tema que toca y su interpretación es muy buena. 
+  Un artista que recomiendo es [Stjepan Hauser](https://www.youtube.com/@HAUSERmusic), sus videos son EPICOOS. 
       
   **Me interesa el tango. Si alguien conoce algo bueno pase la data.**
 - Soy habilidoso con la manos, creo que si estuviéramos en otra época sería un escultor o artesano 😂😂. Se usar todo tipo de herramientas, desde una soldadora inverter, hasta una aguja de cocer. Me doy maña con todo, te puedo colocar un estéreo o parlantes en un auto hasta una puerta en una casa 😎.
@@ -38,7 +38,7 @@ Soy **Carlos Nahuel Lazarte** 🙂, me dicen por mi segundo nombre, **Nahuel**. 
 - Una cosa que me interesa es el **alto rendimiento deportivo**. Este año quiero llegar bien preparado para una competición de natación sin descuidar la facu. Si alguien tiene experiencia con esto, no me vendría mal ayuda. Yo también aprendí un par de cosas y puedo ayudar. 
       
 # Relacionado a la ingeniería y carrera
-- Me gusta la **electrónica** en general. La cosas **inalámbricas** y a **control remoto** me parecen geniales 😃. Algo que me gustaría hacer y que algún día haré es un transmisor FM para hacer un sistema de sonido con varios amplificadores que tengan un receptor FM, para distribuir el sonido por toda mi casa sin tanto cablerio. Hasta donde sé, por bluetooth no se puede hacer algo así, es decir, transmitir de un mismo lugar y recibirlo en diferentes dispositivos a la vez.
+- Me gusta la **electrónica** en general. La cosas **inalámbricas** y a **control remoto** me parecen geniales 😃.
 - Arreglo **notebooks** 💻, **netbooks** y **computadoras de escritorio** 🖥️ hace más de 6 años. **También hago desbloqueos, por si a alguien le interesa.** 
 - Me gusta entender los temas en **profundidad**, desde la **raíz**.  A veces, por cuestiones de plazos y tiempos esto no me es posible, pero siempre que puedo estudio de esta manera. Hago hincapié en la teoría, no solo en la práctica. *Métodos hay muchos, pero principios pocos, aquel que entiende los principios puede escoger eficazmente sus métodos.*
 - Me gusta y me interesan más las **aplicaciones de escritorio** y los **microcontroladores** que las **aplicaciones web**.
