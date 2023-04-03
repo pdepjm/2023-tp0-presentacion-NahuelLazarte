@@ -14,7 +14,7 @@ Soy **Carlos Nahuel Lazarte** 🙂, me dicen por mi segundo nombre, **Nahuel**. 
     Canciones que me parecen una **obra de arte**:
     - Libertango de Astor Piazzolla
     - Morning Mood de Peer Gynt 
-    - Pirates of the Caribbean - He's a Pirate (a esta la uso en la alarma los días que tengo un examen y con eso me levanto de la cama impulsado como un cohete espacial).
+    - Pirates of the Caribbean - He's a Pirate.
 
   Un artista que recomiendo es [Stjepan Hauser](https://www.youtube.com/@HAUSERmusic), sus videos son EPICOOS. 
       
@@ -34,13 +34,13 @@ Soy **Carlos Nahuel Lazarte** 🙂, me dicen por mi segundo nombre, **Nahuel**. 
    
   También me gustan las **bromas con cámara oculta**.
       
-- Mi comida favorita son las **empanadillas de batata** (de estas podría comer un cantidad infinita porque no son re contra dulces y no te empalagás) y las **empanadillas de cayote** (con 2 ya estoy). Tirando más a lo salado, me gusta la **bondiola de cerdo** y el **pan de campo** (con una mermelada de higo o frutilla re contra va 👌).
-- Una cosa que me interesa es el **alto rendimiento deportivo**. Este año quiero llegar bien preparado para una competición de natación sin descuidar la facu. Si alguien tiene experiencia con esto, no me vendría mal ayuda. Yo también aprendí un par de cosas y puedo ayudar. 
+- Mi comida favorita son las **empanadillas de batata** (de estas podría comer un cantidad infinita porque no son re contra dulces) y las **empanadillas de cayote** (con 2 ya estoy). Tirando más a lo salado, me gusta la **bondiola de cerdo** y el **pan de campo** (con una mermelada de higo re contra va 👌).
+- Una cosa que me interesa es el **alto rendimiento deportivo**. Estoy preparándome para una competición de natación. Si alguien tiene experiencia con esto, no me vendría mal ayuda. Yo también aprendí un par de cosas y puedo ayudar. 
       
 # Relacionado a la ingeniería y carrera
-- Me gusta la **electrónica** en general. La cosas **inalámbricas** y a **control remoto** me parecen geniales 😃.
+- Me gusta la **electrónica** en general. Las cosas **inalámbricas** y a **control remoto** me parecen geniales 😃.
 - Arreglo **notebooks** 💻, **netbooks** y **computadoras de escritorio** 🖥️ hace más de 6 años. **También hago desbloqueos, por si a alguien le interesa.** 
-- Me gusta entender los temas en **profundidad**, desde la **raíz**.  A veces, por cuestiones de plazos y tiempos esto no me es posible, pero siempre que puedo estudio de esta manera. Hago hincapié en la teoría, no solo en la práctica. *Métodos hay muchos, pero principios pocos, aquel que entiende los principios puede escoger eficazmente sus métodos.*
+- Me gusta entender los temas en **profundidad**, desde la **raíz**. Hago hincapié en la teoría, no solo en la práctica.
 - Me gusta y me interesan más las **aplicaciones de escritorio** y los **microcontroladores** que las **aplicaciones web**.
 - Me gusta tanto el **hardware** como el **software**.
 - Me interesa la **ciberseguridad**. Esta la tercera vez en el año que tengo que formatear la compu por un virus 😠. 
